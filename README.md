@@ -3,3 +3,4 @@ This is a repository with solutions of problems in my SoftUni Course: Programmin
 1.Basic Syntax, Conditional Statements and Loops - Exercise.
 2.Basic Syntax, Conditional Statements and Loops - More Exercise.
 3.Data Types and Variables - Exercise.
+4.Data Types and Variables - More Exercise.
