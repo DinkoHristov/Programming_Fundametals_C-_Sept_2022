@@ -7,3 +7,6 @@ This is a repository with solutions of problems in my SoftUni Course: Programmin
 5.Arrays - Exercise.
 6.Arrays - More Exercise.
 7.Methods - Exercise.
+8.Lists - Exercise.
+9.Lists - More Exercise.
+10.Programming Fundamentals Mid Exam - 23 October 2022.
