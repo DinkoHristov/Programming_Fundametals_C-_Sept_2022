@@ -10,3 +10,12 @@ This is a repository with solutions of problems in my SoftUni Course: Programmin
 8.Lists - Exercise.
 9.Lists - More Exercise.
 10.Programming Fundamentals Mid Exam - 23 October 2022.
+11.Objects and Classes - Exercise
+12.Objects and Classes - More Exercise.
+13.Associative Arrays - Exercise.
+14.Associative Arrays - More Exercise.
+15.Text Processing - Exercise.
+16.Text Processing - More Exercise.
+17.Regular Expressions - Exercise.
+18.Regular Expressions - More Exercise.
+19.Programming Fundamentals Final Exam - 4 December 2022
